@@ -1,0 +1,12 @@
+/Users/nick/code/rust/rust-with-zkp/target/debug/deps/libhttparse-2404e4ccb27ecf62.rmeta: /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/nick/code/rust/rust-with-zkp/target/debug/deps/libhttparse-2404e4ccb27ecf62.rlib: /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/nick/code/rust/rust-with-zkp/target/debug/deps/httparse-2404e4ccb27ecf62.d: /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs:
+/Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs:
+/Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs:
+/Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs:
+/Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs:
+/Users/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs:
